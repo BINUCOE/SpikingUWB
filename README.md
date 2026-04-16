@@ -62,5 +62,5 @@ If you find this code useful for your research, please consider citing the follo
 
 ---
 <a href="https://clustrmaps.com/site/1c9re"  title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=yQ4sUjzNVbmf6220VOIXauNfWZ-57o6oexp4_u4HzRQ&cl=ffffff" />
+    <img src="https://www.clustrmaps.com/map_v2.png?d=yQ4sUjzNVbmf6220VOIXauNfWZ-57o6oexp4_u4HzRQ&cl=ffffff" />
 </a>
