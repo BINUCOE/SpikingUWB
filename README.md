@@ -53,10 +53,14 @@ If you find this code useful for your research, please consider citing the follo
 
 ```
 @article{zhang2025exploring,
-  title={Exploring the Potential of Spiking Neural Networks in UWB ULOS Identification},
+  title={Exploring the Potential of Spiking Neural Networks in UWB NLOS Identification},
   author={Youdong Zhang, Xu He and Xiaolin Meng},
-  journal={arXiv preprint arXiv:2512.23975},
-  year={2025}
+  journal={IEEE Internet of Things Journal}, 
+  year={2026},
+  volume={13},
+  number={14},
+  pages={32451-32454},
+  doi={10.1109/JIOT.2026.3701553}}
 }
 ```
 
