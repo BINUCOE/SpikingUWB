@@ -65,6 +65,4 @@ If you find this code useful for your research, please consider citing the follo
 ```
 
 ---
-<a href="https://mapmyvisitors.com/web/1c7mt" title="Visit tracker">
-<img src="https://mapmyvisitors.com/map.png?d=6k0yNtpzODRcc5KRG-sx6wIF6LIkgdPB2J9cTUEU9w8&cl=ffffff"/>
-</a>
+<a href='https://mapmyvisitors.com/web/1c7mt'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=6k0yNtpzODRcc5KRG-sx6wIF6LIkgdPB2J9cTUEU9w8'/></a>
